@@ -33,11 +33,9 @@ A modern, user-friendly mobile application that connects loving families with pe
 
 ## 📱 Screenshots
 
-| Home Screen | Pet Details | Adoption Success |
-|-------------|-------------|------------------|
-| ![Home Screen](https://drive.google.com/file/d/1nwlJqyx0lAVdcmzI4NNBB8jq70H0Xl1V) | ![Pet Details](assets/screenshots/pet_details.png) | ![Adoption Confirmation](assets/screenshots/adoption_success.png) |
-
-*Coming Soon: Additional screenshots showing search filters, favorites, and profile screens*
+| Home Page | History Page | Favorites Page | Details Page | Zoom Out View of Pet | Adoption Success |
+|-----------|--------------|----------------|--------------|---------------------|------------------|
+| ![Home Page](https://github.com/user-attachments/assets/b6b69a7a-e0e6-4c9e-a67e-69ca7f285dc8) | ![History Page](https://github.com/user-attachments/assets/a17c76c0-100b-4aac-a27c-541b687e099f) | ![Favorites Page](https://github.com/user-attachments/assets/6a7b7049-ffa7-4841-a671-349339a1fb39) | ![Details Page](https://github.com/user-attachments/assets/5b89eaa4-f7a3-42a4-be0a-f3a849475d38) | ![Zoom Out View of Pet](https://github.com/user-attachments/assets/86a9ea8f-9d2f-4807-991d-b95fbc5ed861) | ![Adoption Success](https://github.com/user-attachments/assets/2b5402a8-3566-457c-b7d0-5aefd1d770c7) |
 
 ## 🛠️ Tech Stack
 
@@ -92,8 +90,7 @@ A modern, user-friendly mobile application that connects loving families with pe
 Create a `.env` file in the root directory with the following variables:
 
 ```env
-API_BASE_URL=https://api.petadoption.com
-API_KEY=your_api_key_here
+API_BASE_URL=https://api.thecatapi.com
 ENABLE_ANALYTICS=true
 ```
 
